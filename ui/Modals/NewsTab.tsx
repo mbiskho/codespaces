@@ -16,7 +16,7 @@ export const News = () => {
       <h1 className="text-2xl pb-3 border-b border-tree-border">News</h1>
       <div className="pt-6">
         <h1 className="font-medium text-base">Features</h1>
-        <p className="text-gray-400 mb-4">Friday, 7 May 2021</p>
+        <p className="text-gray-400 mb-4">Friday, 20 May 2021</p>
         <ul>
           <NewsLine text="Adding P5jS and ReactJs templates" />
         </ul>
